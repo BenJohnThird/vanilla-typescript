@@ -1,0 +1,13 @@
+$primary: #51419A;
+
+.text-primary,
+.bg-primary,
+.border-primary {
+  color: $primary !important;
+}
+
+.btn-primary {
+  background-color: $primary !important;
+  border-color: $primary !important;
+  color: white;
+}
